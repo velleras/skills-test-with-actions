@@ -49,7 +49,7 @@ If the checks don't appear or if the checks are stuck in progress, there's a few
    ```markdown
    _underscore_
    ```
-1. __Commit changes__.
+1. **Commit changes**.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
 <footer>
